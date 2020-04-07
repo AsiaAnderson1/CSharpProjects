@@ -1,0 +1,6 @@
+c:\users\asia\documents\visual studio 2017\Projects\HuttHikeAMA\bin\Debug\HuttHikeAMA.exe.config
+c:\users\asia\documents\visual studio 2017\Projects\HuttHikeAMA\bin\Debug\HuttHikeAMA.exe
+c:\users\asia\documents\visual studio 2017\Projects\HuttHikeAMA\bin\Debug\HuttHikeAMA.pdb
+c:\users\asia\documents\visual studio 2017\Projects\HuttHikeAMA\obj\Debug\HuttHikeAMA.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2017\Projects\HuttHikeAMA\obj\Debug\HuttHikeAMA.exe
+c:\users\asia\documents\visual studio 2017\Projects\HuttHikeAMA\obj\Debug\HuttHikeAMA.pdb
